@@ -9,7 +9,7 @@ PWFE com JavaScript.
 💜Isabella Oliveira Rogieri <br>
 💜Lavínia de Souza Mesquita <br>
 
----------------------------//-----------------------------//--------------------------------//------------------------------//
+
 <br>
 # Diagrama inicial 
 <br>
