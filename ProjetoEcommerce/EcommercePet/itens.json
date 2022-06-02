@@ -1,0 +1,366 @@
+﻿[
+  {
+    "Codigo": "001",
+    "Nome": "Bolinha com Penas",
+    "Descricao": "Bola com guizo e penas",
+    "Preco": 19.90
+  },
+  {
+    "Codigo": "002",
+    "Nome": "Peixe Cat-Nip",
+    "Descricao": "Almofada em formato de peixe com Cat-Nip",
+    "Preco": 25.90
+  },
+
+  {
+    "Codigo": "003",
+    "Nome": "Coleira para Gato - Guizo",
+    "Descricao": "Coleira de pescoço para gato com Guizo ",
+    "Preco": 28.90
+  },
+  {
+    "Codigo": "004",
+    "Nome": "Sofá Luxo",
+    "Descricao": "Cama em forma de sofá mini, revestido de courino marrom.",
+    "Preco": 85.50
+  },
+  {
+    "Codigo": "005",
+    "Nome": "Luva Tira Pelos",
+    "Descricao": "Luva de borracha para escovar e tirar o excesso de pelos",
+    "Preco": 35.90
+  },
+
+  {
+    "Codigo": "006",
+    "Nome": "Comedouro Duplo",
+    "Descricao": "Comedouro duplo, suporte em madeira e vasilhas em ceramica",
+    "Preco": 55.90
+  },
+
+  {
+    "Codigo": "008",
+    "Nome": "Comedouro automático",
+    "Descricao": "Comedouro automático, programe até 3 horários e ele alimenta seu pet sozinho",
+    "Preco": 155.90
+  },
+
+  {
+    "Codigo": "009",
+    "Nome": "Comedouro Doguinho",
+    "Descricao": "Comedouro em ceramica redondo com orelhas",
+    "Preco": 45.90
+  },
+
+  {
+    "Codigo": "010",
+    "Nome": "Poste do pipi Dog",
+    "Descricao": "Poste Educador sanitário para cães machos",
+    "Preco": 15.20
+  },
+
+  {
+    "Codigo": "011",
+    "Nome": "Mordedor Chupeta",
+    "Descricao": "Mordedor de borracha em forma de chupeta para seu pet",
+    "Preco": 10.90
+  },
+
+  {
+    "Codigo": "012",
+    "Nome": "Coleira com pingente",
+    "Descricao": "Coleira de pescoço com pingente de ossinho em inox",
+    "Preco": 55.90
+  },
+
+  {
+    "Codigo": "013",
+    "Nome": "Gravata e Bandana",
+    "Descricao": "Gravatinha e bandana em tecido para seu pet",
+    "Preco": 35.50
+  },
+  {
+    "Codigo": "014",
+    "Nome": "Moletom Azul com Capuz",
+    "Descricao": "Roupinha de moletom azul com capuz",
+    "Preco": 65.50
+  },
+
+  {
+    "Codigo": "015",
+    "Nome": "Cachecol de Natal",
+    "Descricao": "Cachecol vermelho em croche tema natalino",
+    "Preco": 98.00
+  },
+
+  {
+    "Codigo": "016",
+    "Nome": "Arranhador e Protetor de braço de sofa",
+    "Descricao": "Par de arranhador e protetor de sofa material de carpete",
+    "Preco": 99.00
+  },
+
+  {
+    "Codigo": "017",
+    "Nome": "Arranhador Casinha dois andares",
+    "Descricao": "Casinha pra gatos com duas tocas",
+    "Preco": 299.00
+  },
+
+  {
+    "Codigo": "018",
+    "Nome": "Roupinha Abelha",
+    "Descricao": "Roupinha para raças minis e pequenas em antenas",
+    "Preco": 69.99
+  },
+  {
+    "Codigo": "019",
+    "Nome": "Mochila Canguru",
+    "Descricao": "Mochila Canguru xadrez azul e cinza, para cães ate 4kg.",
+    "Preco": 160.00
+  },
+
+  {
+    "Codigo": "020",
+    "Nome": "Touca Sapinho para Gatos",
+    "Descricao": "Acessório para gato tricot em lã 26-28cm.",
+    "Preco": 110.00
+  },
+
+  {
+    "Codigo": "021",
+    "Nome": "Fonte de água gatinhos divertidos",
+    "Descricao": "Fonte de cerâmica 1200ml, água fresca e corrente",
+    "Preco": 170.00
+  },
+
+  {
+    "Codigo": "022",
+    "Nome": "Capacho Gatinho",
+    "Descricao": "Capacho em vinil sintético espessura: 10mm, medidas: 60x40cm",
+    "Preco": 75.50
+  },
+
+  {
+    "Codigo": "023",
+    "Nome": "Kit 3 almofadas gatinhos",
+    "Descricao": "Almofadas 45x45cm, tecido: oxfordine 100% poliester, enchimento em fibra de silicone",
+    "Preco": 125.00
+  },
+
+  {
+    "Codigo": "024",
+    "Nome": "Bolsa de transporte pet",
+    "Descricao": "Bolsa de transporte azul e amarela resistente a água. Medidas: 46x27x20cm",
+    "Preco": 185.00
+  },
+  {
+    "Codigo": "025",
+    "Nome": "Brinquedo Pelúcia Mordedor Burrinho ",
+    "Descricao": "Mordedor de pelúcia em forma de burrinho",
+    "Preco": 23.70
+  },
+
+  {
+    "Codigo": "026",
+    "Nome": "Brinquedo Pelúcia Macaco",
+    "Descricao": "Pelúcia em formato de macaco",
+    "Preco": 27.90
+  },
+
+  {
+    "Codigo": "027",
+    "Nome": "Brinquedo Bolinha Cordão",
+    "Descricao": "Bolinha feita em Tpr, que possui cordão, com textura macia",
+    "Preco": 21.60
+  },
+
+  {
+    "Codigo": "028",
+    "Nome": "Mordedor Pelúcia Big Duck",
+    "Descricao": "Mordedor de pelúcia em formato de pato tamanho Jumbo",
+    "Preco": 63.90
+  },
+
+  {
+    "Codigo": "029",
+    "Nome": "Pelúcia Sweet Patinho",
+    "Descricao": "Pequena pelúcia em formato de patinho",
+    "Preco": 24.50
+  },
+
+  {
+    "Codigo": "030",
+    "Nome": "Brinquedo Crocojack Nylon Buddy",
+    "Descricao": "Crocojack Nylon para cães todos os portes perfeito para roer",
+    "Preco": 54.30
+  },
+
+
+  {
+    "Codigo": "031",
+    "Nome": "Mordedor Pet Escova Azul",
+    "Descricao": "Mordedor proprio para auxiliar na limpeza dos dentes do seu pet",
+    "Preco": 32.20
+  },
+
+  {
+    "Codigo": "032",
+    "Nome": "Pelúcia Barriguinha Plush Porco Jambo",
+    "Descricao": "Pelúcia no formato de porquinho",
+    "Preco": 25.90
+  },
+
+  {
+    "Codigo": "033",
+    "Nome": "Brinquedo Milho Nylon Buddy",
+    "Descricao": "Mordedor proprio para auxiliar na limpeza dos dentes do seu pet",
+    "Preco": 50.90
+  },
+
+
+  {
+    "Codigo": "034",
+    "Nome": "Roupa para Gatos Simpson",
+    "Descricao": "Roupas personalizadas trazem para seu pet, conforto e proteção",
+    "Preco": 95.90
+  },
+
+  {
+    "Codigo": "035",
+    "Nome": "Roupa para Gatos Tom e Jerry ",
+    "Descricao": "Roupas personalizadas trazem para seu pet, conforto e proteção",
+    "Preco": 95.90
+  },
+
+  {
+    "Codigo": "036",
+    "Nome": "Roupa para Gatos Star Wars PP",
+    "Descricao": "Roupas personalizadas trazem para seu pet, conforto e proteção",
+    "Preco": 95.90
+  },
+
+
+  {
+    "Codigo": "037",
+    "Nome": "Graminha Gatos Erva Finas Petpira",
+    "Descricao": "Graminha para o bom funcionamento do sistema digestivo e intestinal dos gatos.",
+    "Preco": 25.90
+  },
+
+  {
+    "Codigo": "038",
+    "Nome": "Sementes de Graminha para Gatos",
+    "Descricao": "Semente de graminha digestiva",
+    "Preco": 12.70
+  },
+
+  {
+    "Codigo": "039",
+    "Nome": "Capa Dupla Face Geométrica Emporium",
+    "Descricao": "roupa perfeita para as atividades ao ar livre, deixando seu pet confortável e quentinho",
+    "Preco": 55.90
+  },
+
+
+  {
+    "Codigo": "040",
+    "Nome": "Capa Dupla Face Geométrica Emporium Distripet Vermelha",
+    "Descricao": "Roupa para atividades ao ar livre, deixando seu pet confortável e quentinho",
+    "Preco": 55.90
+  },
+
+  {
+    "Codigo": "041",
+    "Nome": "Roupa para Gatos Capitão América ",
+    "Descricao": "Roupas personalizadas trazem para seu pet, conforto e proteção",
+    "Preco": 95.90
+  },
+
+  {
+    "Codigo": "042",
+    "Nome": "Brinquedo Kit 2 Ratos HomePet",
+    "Descricao": "Brinquedo em formato de ratos que possuem catnip",
+    "Preco": 23.70
+  },
+
+
+  {
+    "Codigo": "043",
+    "Nome": "Brinquedo Rato João Bobo",
+    "Descricao": "Brinquedo em formato de ratos indicados para gatos",
+    "Preco": 18.90
+  },
+
+  {
+    "Codigo": "044",
+    "Nome": "Brinquedo Puzzle Caça Rato Para Gatos Interativo com Teaser",
+    "Descricao": "Brinquedos educativos",
+    "Preco": 400.62
+  },
+
+  {
+    "Codigo": "045",
+    "Nome": "Brinquedo Cilindro com Esfera Toy para Gatos",
+    "Descricao": "Brinquedo interativo ideal para aliviar estresse",
+    "Preco": 17.90
+  },
+
+
+  {
+    "Codigo": "046",
+    "Nome": "Torre De Bolinhas Brinquedo Pet Azul",
+    "Descricao": "Brinquedo interativo ideal para aliviar estresse",
+    "Preco": 55.99
+  },
+
+  {
+    "Codigo": "047",
+    "Nome": "Playground Para Gato Ponte",
+    "Descricao": "Playground de prateleiras Degraus Caixa com 8 Peças",
+    "Preco": 139.00
+  },
+
+  {
+    "Codigo": "048",
+    "Nome": "Tenda com Brinquedos para Gato",
+    "Descricao": "Brinquedo tenda para gatos, atóxico e ideal para a diversão do seu pet.",
+    "Preco": 84.00
+  },
+
+  {
+    "Codigo": "049",
+    "Nome": "Brinquedo para Gatos Peixinho com Plumas",
+    "Descricao": "Brinquedo interativo indicado para gatos",
+    "Preco": 27.90
+  },
+  {
+    "Codigo": "050",
+    "Nome": "Meias para pet",
+    "Descricao": "Para deixar seu pet com estilo e com as patas bem protegidas",
+    "Preco": 20.90
+  },
+  {
+    "Codigo": "051",
+    "Nome": "Capa de Chuva",
+    "Descricao": "Capa confeccionada em tecido 100% impermeável. Possui saída para guia e é regulável na barriga",
+    "Preco": 90.00
+  },
+  {
+    "Codigo": "052",
+    "Nome": "Óculos  de Sol",
+    "Descricao": "óculos de proteção UV para animais de estimação",
+    "Preco": 94.50
+
+  },
+  {
+    "Codigo": "053",
+    "Nome": "Pet Trailer Carrinho Para Pets",
+    "Descricao": "Pet Trailer Carrinho Para Pets Com Acoplamento Em Bicicleta",
+    "Preco": 2590.00
+  }
+
+
+
+
+]
